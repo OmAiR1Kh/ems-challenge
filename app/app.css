@@ -18,6 +18,8 @@ body {
   @media (prefers-color-scheme: light) {
     color-scheme: dark;
   }
+
+  color: black;
 }
 
 body {
